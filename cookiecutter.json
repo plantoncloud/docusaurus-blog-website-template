@@ -1,0 +1,13 @@
+{
+    "_copy_without_render": [
+        "site/src"
+    ],
+    "project_slug": "my-blog",
+    "company_name": "My Company",
+    "blog_title": "My Company Blog",
+    "blog_description": "A Blog Website created by Planton Cloud",
+    "algolia_enabled": "false",
+    "algolia_app_id": "algolia-app-id",
+    "algolia_index_name": "algolia-index-name",
+    "algolia_api_key": "algloia-api-key"
+}
