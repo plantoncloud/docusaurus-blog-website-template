@@ -13,7 +13,7 @@ build:
 	cd site;yarn install;yarn build
 
 .PHONY: run
-run:
+run: build
 	cd site;yarn start
 
 .PHONY: run-algolia-indexing
